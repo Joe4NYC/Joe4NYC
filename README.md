@@ -12,8 +12,6 @@ Skilled in clerical work and computer programming, currently expanding knowledge
 
 - 🔭 Currently studying **Enterprise Information Systems** at PolyU (2024 – 2028)
 - 🌱 Learning more about **web development** and **software engineering**
-- 💼 Part-time Sales Associate @ **Timberland**
-- 🏆 DSE Level 5 in **Mathematics** & **ICT**
 - 💬 Languages: Cantonese 🇭🇰 (Fluent) | Mandarin (Fluent) | English (Basic)
 
 ---
