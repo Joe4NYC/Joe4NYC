@@ -1,6 +1,6 @@
 # Hi there, I'm Joe Ng 👋
 
-🎓 Bachelor of Enterprise Information Systems @ The Hong Kong Polytechnic University
+🎓 Bachelor of Enterprise Information Systems @The Hong Kong Polytechnic University
 🌏 Based in Hong Kong | Passionate about tech, innovation & continuous learning
 
 ---
