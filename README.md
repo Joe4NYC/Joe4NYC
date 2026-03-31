@@ -53,7 +53,8 @@ Features a **card counter** to track remaining cards, solving two key pain point
 | Certification | Issuer | Year |
 |---|---|---|
 | [CS50P – Python Programming](https://cs50.harvard.edu/python/) | Harvard / edX | 2024 |
-| Microsoft Office Specialist – Excel | Microsoft | 2022 |
+| [Microsoft Office Specialist – Excel](https://www.credly.com/badges/604706db-476e-4bc1-b9a4-26edfdb368ba/linked_in_profile) | Microsoft | 2022 |
+|[Adobe Certified Professional - Photoshop](https://www.credly.com/badges/7ba796ff-e58e-4b2b-8b58-432da8c0270d/linked_in_profile)|Adobe|2022|
 
 ---
 
