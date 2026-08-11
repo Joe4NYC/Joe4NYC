@@ -26,27 +26,6 @@ Skilled in clerical work and computer programming, currently expanding knowledge
 
 ---
 
-## 🚀 Projects
-
-### 🕵️ [VERDICT: The AI Detective](https://github.com/Joe4NYC/verdict)
-> Built for Hackiethon 2026
-
-A noir-styled browser-based murder mystery game powered by a **local AI (Ollama)**. Players interrogate 4 AI-driven suspects — each with a hidden alibi and a lie to defend — collect evidence, analyze contradictions, and issue a one-shot final verdict.
-
-**Tech used:** HTML, CSS, JavaScript, Ollama (llama3.2)
-
----
-
-### 🃏 [Web App – Drinking Card Game](https://drinkingamepokder.netlify.app/)
-> Built in 2025
-
-A web-based drinking card game that streamlines gameplay by displaying rules directly on each card — no manual explanations needed.  
-Features a **card counter** to track remaining cards, solving two key pain points in traditional card games.
-
-**Tech used:** HTML, CSS, JavaScript
-
----
-
 ## 🏅 Certifications
 
 | Certification | Issuer | Year |
